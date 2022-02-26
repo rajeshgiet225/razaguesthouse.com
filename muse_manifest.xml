@@ -1,0 +1,237 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.razaguesthouse.com" resolutions="1x" timestamp="1645890923648">
+  <folder name="css">
+    <file name="site_global.css" crc="4207308428"/>
+    <file name="master_a-master.css" crc="336740126" ref="index:services:contact:about:portfolio"/>
+    <file name="index.css" crc="234053025" ref="index"/>
+    <file name="services.css" crc="4232573373" ref="services"/>
+    <file name="contact.css" crc="446609337" ref="contact"/>
+    <file name="about.css" crc="4175338792" ref="about"/>
+    <file name="portfolio.css" crc="336865017" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:portfolio:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:services:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:portfolio:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:services:portfolio:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:services:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:portfolio:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:services:portfolio:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u585.php" crc="3917008021" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="snap_screen_20220226142410.jpg" crc="51925614" ref="index"/>
+    <file name="u139-4.png" crc="4048792021" ref="index:about:services:portfolio:contact"/>
+    <file name="snap_screen_20220226165546.jpg" crc="152630095" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.png" crc="260457741" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribbble.png" crc="4050684656" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160322 (3).jpg" crc="4127243158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="whatsapp image 2022-02-26 at 160324 (1).jpg" crc="137821198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160324 (3).jpg" crc="519210378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160518 (2).jpg" crc="4275101339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160518 (3).jpg" crc="379197314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519.jpg" crc="220939989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="healthy-chinese-food-dishes-1200x675-crop-u3291.jpg" crc="14920925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wang1width-1440-crop-u3311.jpg" crc="3959098663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="mobile-phone-u1201-fr.png" crc="3865116895" ref="index"/>
+    <file name="giphy.gif" crc="302390144" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eazytrendz-2f2997-2ftrend20201119134018-u3233-fr.jpg" crc="190549739" ref="index"/>
+    <file name="eazytrendz-2f2033-2ftrend20180920125236-u3244-fr.jpg" crc="483524872" ref="index"/>
+    <file name="grilled-tandoori-chicken-kebabs-4--720x720.jpg" crc="4007190720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="istockphoto-1227415751-612x612-u3250-fr.jpg" crc="4029508291" ref="index"/>
+    <file name="whatsapp image 2022-02-26 at 160321 (5).jpg" crc="32528615" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160321 (2).jpg" crc="4217266792" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160321 - copy.jpg" crc="4145927594" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inside_business_rumyantsevo_hotel-moscow-room-7-519366.jpg" crc="3911569296" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="js102299603.jpg" crc="4024799536" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="view-inside-hotel-room.jpg" crc="478762821" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519 (4).jpg" crc="3870616701" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye-u2775-r-fr.jpg" crc="516309425" ref="index"/>
+    <file name="whatsapp image 2022-02-26 at 160324 (1)-u2776-fr.jpg" crc="4244055401" ref="index"/>
+    <file name="whatsapp image 2022-02-26 at 160323 (2).jpg" crc="456802663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160325 (1).jpg" crc="4132594728" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160324 (2).jpg" crc="319432618" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160321 (1).jpg" crc="4064853195" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160321 (4).jpg" crc="92570866" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160325.jpg" crc="3768757839" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eazytrendz-2f2033-2ftrend20180920125236.jpg" crc="3818560015" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="istockphoto-1227415751-612x612.jpg" crc="530528834" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="healthy-chinese-food-dishes-1200x675-u2769-fr.jpg" crc="4057739578" ref="index"/>
+    <file name="eye-u2769-r-fr.jpg" crc="469848097" ref="index"/>
+    <file name="eazytrendz-2f2997-2ftrend20201119134018.jpg" crc="4112029410" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20220226142410-u1819-fr.png" crc="3790646079" ref="index"/>
+    <file name="rplexpngglobe.gif" crc="4259601477" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160322 (2).jpg" crc="381042782" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3924676723" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="43.jpg" crc="3825706488" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="1.jpg" crc="260302790" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="44.jpg" crc="4291489727" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="jeba.jpg" crc="87728501" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="anjali.jpg" crc="281821836" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519 (2).jpg" crc="181209515" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="view-inside-hotel-room-u400-3-fr.jpg" crc="133321326" ref="services"/>
+    <file name="js102299603-u397-3-fr.jpg" crc="209871280" ref="services"/>
+    <file name="franz-design-haawe-boutique-hotel-architonic-hanki-haawe-kotacollectivephoto-3903-01-14-arcit18.jpg" crc="4076790912" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="kitty-party-hall-secunderabad-hyderabad.jpg" crc="79698431" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="stylish-bathroom-1616502088.jpg" crc="33085091" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160520.jpg" crc="4176551158" ref="services:portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160322 (3)-u1928-fr.jpg" crc="3804406723" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160518 (2)-u1956-fr.jpg" crc="3899376611" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160518 (3)-u2000-fr.jpg" crc="425773740" ref="portfolio"/>
+    <file name="view-inside-hotel-room-u2135-fr.jpg" crc="289069738" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160322 (4).jpg" crc="3798668688" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519-u1959-fr.jpg" crc="73298735" ref="portfolio"/>
+    <file name="js102299603-u1981-fr.jpg" crc="36514295" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160518 (2)-u2136-fr.jpg" crc="536127786" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160326 (4).jpg" crc="135502271" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160326 (2).jpg" crc="3888049320" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519 (1).jpg" crc="3863829450" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160323 (1).jpg" crc="4194971253" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160326 (5)-u2140-fr.jpg" crc="284227941" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160326 (5).jpg" crc="3997090113" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160518 (1).jpg" crc="3986047626" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160322.jpg" crc="3914188091" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160322-u2252-fr.jpg" crc="3939659135" ref="portfolio"/>
+    <file name="0ee12944c7530ff667345c1db33a0d4d.jpg" crc="201904222" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160518 (3)-u2249-fr.jpg" crc="3846840081" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160322 (2)-u2253-fr.jpg" crc="282751830" ref="portfolio"/>
+    <file name="inside_business_rumyantsevo_hotel-moscow-room-7-519366-u2255-fr.jpg" crc="3857672253" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160325 (1)-u2250-fr.jpg" crc="422683056" ref="portfolio"/>
+    <file name="franz-design-haawe-boutique-hotel-architonic-hanki-haawe-kotacollectivephoto-3903-01-14-arcit18-u2254-fr.jpg" crc="170439287" ref="portfolio"/>
+    <file name="favpng_call-centre-customer-service-armenia-call-center-telephone-call-u1450-fr.png" crc="117717276" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="139314680" seo="true" mt="1645890184051" redirect="true"/>
+  <file name="about.html" crc="105126491" seo="true" mt="1645890184726" redirect="true"/>
+  <file name="services.html" crc="335885677" seo="true" mt="1645890185074" redirect="true"/>
+  <file name="portfolio.html" crc="3820317230" seo="true" mt="1645890185738" redirect="true"/>
+  <file name="contact.html" crc="311139888" seo="true" mt="1645890152336" redirect="true"/>
+</manifest>
